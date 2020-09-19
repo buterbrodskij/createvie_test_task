@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites": false
+  }, {
+    "id": 2,
+    "title": "3-к, Котовского, 7",
+    "preview": "https://n1st.ru/cache/realty/photo/0472b8853c5aadf55962b9c914213bc4_216_162_cp.jpg",
+    "price": "1 700 000",
+    "favorites": false
+  }, {
+    "id": 3,
+    "title": "1-к, Блюхера, 45",
+    "preview": "https://n1st.ru/cache/realty/photo/62909435f35cc02c164ca4b864a3b5a8_216_162_cp.jpg",
+    "price": "3 400 000",
+    "favorites": false
+  },
+  {
+    "id": 4,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites": false
+  }, {
+    "id": 5,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites": false
+  }, {
+    "id": 6,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites": false
+  }, {
+    "id": 7,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites": false
+  }, {
+    "id": 8,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites" : false
+  }, {
+    "id": 9,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites" : false
+  }, {
+    "id": 10,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites" : false
+  }, {
+    "id": 11,
+    "title": "2-к, Новогодняя, 19",
+    "preview": "https://n1st.ru/cache/realty/photo/169209e56d01c2c43ac3a96b6bce7f7c_216_162_cp.jpg",
+    "price": "2 700 000",
+    "favorites" : false
+  }
+]
